@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charlesmagalhaes
+- 👋 Hi, I’m Charles Magalhães
 - 👀 I’m interested in being a developer
 - 🌱 I’m currently learning Java, scrum e Spring Boot e React JS
 - 💞️ I’m looking to collaborate on ...
